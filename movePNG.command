@@ -21,3 +21,5 @@ cp ~/Desktop/MyWork/Mobile_Project_Files/$des/$source/drawable-xxxhdpi/*.png ~/D
 
 //Desktop/MyWork/Mobile_Project_Files/emasjid/ic_alert_normal
 //Desktop/MyWork/Android/emasjid/app/src/main/res
+
+//Edit by FatahZull
